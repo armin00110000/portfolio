@@ -55,6 +55,7 @@ body {
 }
 
 .pf {
+    font-family: Berlin Sans FB Demi;
     font-size: 1.2em; 
     font-weight: bold;
     margin-bottom: 20px;
@@ -75,4 +76,8 @@ hr {
     border: none;
     border-top: 3px solid black;
     margin: 20px 0;
+}
+h2 {
+    font-size: 1.2em;
+    font-family: ALGERIAN;
 }
